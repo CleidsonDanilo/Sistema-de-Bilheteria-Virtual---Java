@@ -17,14 +17,14 @@ O sistema tem como propósito:
 
 ## 🗂️ Estrutura de Pastas
 
-src/ ├── model/                  # Classes que representam os dados do sistema 
- │   ├── Cliente.java            # Representa o comprador
- │   ├── Evento.java             # Representa o evento disponível
- │   ├── Ingresso.java           # Representa o ingresso comprado
- │   └── Pagamento.java          # Simula o pagamento
- ├── service/                    # Lógica de negócio
- │   └── BilheteriaService.java  # Gerencia eventos e compras
- └── App.java                    # Ponto de entrada do programa
+- src/ ├── model/                  # Classes que representam os dados do sistema 
+- │   ├── Cliente.java            # Representa o comprador
+- │   ├── Evento.java             # Representa o evento disponível
+- │   ├── Ingresso.java           # Representa o ingresso comprado
+- │   └── Pagamento.java          # Simula o pagamento
+- ├── service/                    # Lógica de negócio
+- │   └── BilheteriaService.java  # Gerencia eventos e compras
+- └── App.java                    # Ponto de entrada do programa
 
 ---
 
